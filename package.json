@@ -1,0 +1,28 @@
+{
+  "name": "net.funkysheep.unity.osm",
+  "displayName": "FunkySheep Unity OpenStreetMap Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework OpenStreetMap Library",
+  "keywords": [
+    "OpenStreetMap",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "OpenStreetMap",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-OSM/blob/main/CHANGELOG.md",
+  "dependencies": {
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
